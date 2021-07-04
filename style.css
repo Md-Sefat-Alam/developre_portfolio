@@ -73,3 +73,44 @@ body{
     padding-bottom: 20px;
 }
 
+/* end section2 */
+
+#section3 .exp{
+    margin-top: 120px;
+    margin-left: 50px;
+    font-size: 40px;
+    color: black;
+}
+
+#section3 .section3_wrap{
+    display: flex;
+}
+#section3 .section3_wrap .section3_col{
+    width: 50%;
+    padding: 20px;
+    margin:5%;
+    box-shadow: 1px 1px 20px 1px black;
+    margin-top: 0px;
+}
+#section3 .section3_wrap .section3_col h1{
+    padding-top: 50px;
+    font-size: 30px;
+    line-height: 0px;
+    color: orange;
+
+}
+#section3 .section3_wrap .section3_col span{
+    color: gray;
+    font-size: small;
+}
+#section3 .section3_wrap .section3_col p{
+    text-align: justify;
+    padding-top:20px;
+    color: gray;
+}
+/* end section3 */
+
+footer p{
+    text-align: center;
+    color: gray;
+}
