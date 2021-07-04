@@ -84,6 +84,8 @@ body{
 
 #section3 .section3_wrap{
     display: flex;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
 }
 #section3 .section3_wrap .section3_col{
     width: 50%;
